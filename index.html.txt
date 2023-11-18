@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="./style.css">
+<title>Doces</title>
+</head>
+<body>
+<div id="CompCard>
+<div class="Card">
+<h1>Titulo</h1>
+<article>qualquer coisa
+</div>
+
+<div class="Card">
+<h1>Titulo</h1>
+<article>qualquer coisa
+</div>
+
+<div class="Card">
+<h1>Titulo</h1>
+<article>qualquer coisa
+</div>
+</div>
+</body>
+</html>
